@@ -1,0 +1,11 @@
+.border-solid {
+  border-style: solid;
+}
+
+.border-dashed {
+  border-style: dashed;
+}
+
+.display-block {
+  display: block;
+}
